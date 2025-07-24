@@ -45,9 +45,9 @@
 	 */
 	// "services": [{ "binding": "MY_SERVICE", "service": "my-service" }]
 	"kv_namespaces": [
-    {
-      "binding": "API_CACHE",
-      "id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // Replace with your actual KV namespace ID
-    }
-  ]
+		{
+			"binding": "API_CACHE",
+			"id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // Replace with your actual KV namespace ID
+		}
+	]
 }
